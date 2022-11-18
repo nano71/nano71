@@ -1,10 +1,10 @@
 <div style="font-family: 'Artifakt Element',ui-serif">
-<p align="center"><strong>Hi there👋</strong></p>
+<h4 align="center">Hi there👋</h4>
 <br>
 <br>
-<p align="center">
+<h4 align="center">
 I'm nano71 , a interesting front-end developer  |  DL learner  |  major in data science
-</p>
+</h4>
 <br>
 <br>
 <p align="center">
