@@ -12,7 +12,7 @@ I'm nano71 , A interesting front-end developer👨‍💻
 </div>
 <br>
 <div>
-  <img align="center" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nano71&layout=compact&langs_count=8&card_width=467">
+  <img align="center" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nano71&layout=compact&langs_count=8&card_width=467&hide=less">
 </div>
 
 
