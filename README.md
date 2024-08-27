@@ -3,7 +3,7 @@
 <br>
 <br>
 <h4 align="center">
-I'm nano71 , A interesting front-end developer  |  Web & Flutter & Golang learner  |  major in data science 👨‍💻
+I'm nano71 , A interesting front-end developer👨‍💻
 </h4>
 <br>
 <br>
