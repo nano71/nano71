@@ -2,7 +2,7 @@
 <br>
 <h4 align=center>Hi there👋</h4>
 <h4 align=center>
-I'm nano71 , A interesting front-end developer👨‍💻
+I'm nano71 , A interesting developer👨‍💻
 </h4>
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=nano71&show_icons=true&hide_border=true&bg_color=fcfcfc">
