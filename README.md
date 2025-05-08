@@ -2,7 +2,7 @@
 <br>
 <h4 align=center>Hi there👋</h4>
 <h4 align=center>
-I'm nano71 , A interesting developer👨‍💻
+I'm nano71, A interesting developer👨‍💻
 </h4>
 <h4 align=center>
 I have a girl I like, her name is Flying👧
